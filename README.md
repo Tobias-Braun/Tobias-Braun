@@ -1,6 +1,6 @@
 ## Hi! I'm Tobi
 
-I'm a Software Engineer interested in all kinds of Software & AI.
+I'm a Software Engineer from Germany, interested in all kinds of Software & AI.
 My deep expertise is in building frontend architecture, were I have helped some of the biggest brands in germany. Recently I have gotten more and more into agentic engineering and machine learning.
 
 
@@ -26,7 +26,7 @@ _(... and more)_
 ### What I do on the side
 
 - Writing articles on my blog: [tobi-braun.com](https://tobi-braun.com)
-- Maintaining a community app for Roundnet: [rgblitz.tobi-braun.com](https://rgblitz.tobi-braun.com)
+- Maintaining a community app for Roundnet: [rgblitz.tobi-braun.com](https://rgblitz.tobi-braun.com) (currently german only)
 
 Currently I am learning about machine learning and building scalable (distributed) systems end-to-end.
 
