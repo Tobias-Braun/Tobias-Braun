@@ -1,7 +1,7 @@
 ## Hi! I'm Tobi
 
 I'm a Software Engineer from Germany, interested in all kinds of Software & AI.
-My deep expertise is in building frontend architecture, were I have helped some of the biggest brands in germany. Recently I have gotten more and more into agentic engineering and machine learning.
+My deep expertise is in building frontend architecture, were I have helped some of the biggest brands in Germany. Recently I have gotten more and more into agentic engineering and machine learning.
 
 
 ### My Stack
