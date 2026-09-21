@@ -26,9 +26,9 @@ _(... and more)_
 ### What I do on the side
 
 - Writing articles on my blog: [tobi-braun.com](https://tobi-braun.com)
-- Maintaining a community app for Roundnet: [rgblitz.tobi-braun.com](https://rgblitz.tobi-braun.com) (currently german only)
+- Maintaining a community app for Roundnet: [rgblitz.tobi-braun.com](https://rgblitz.tobi-braun.com) (german only)
 
-Currently I am learning about machine learning and building scalable (distributed) systems end-to-end.
+Currently learning about machine learning and building scalable (distributed) systems end-to-end.
 
 ---
 
