@@ -21,14 +21,11 @@ My deep expertise is in building frontend architecture, were I have helped some 
 ![docker](https://www.readmecodegen.com/api/social-icon?name=docker&size=32)
 
 
-_(... and more)_
-
 ### What I do on the side
 
 - Writing articles on my blog: [tobi-braun.com](https://tobi-braun.com)
 - Maintaining a community app for Roundnet: [rgblitz.tobi-braun.com](https://rgblitz.tobi-braun.com) (german only)
-
-Currently learning about machine learning and building scalable (distributed) systems end-to-end.
+- Currently learning about machine learning and building scalable (distributed) systems end-to-end.
 
 ---
 
